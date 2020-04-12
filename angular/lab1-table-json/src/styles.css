@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.theme {
+  background-color: rgb(247, 242, 235);
+  color: rgb(17, 9, 9);
+}
